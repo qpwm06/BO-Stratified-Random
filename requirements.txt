@@ -1,0 +1,10 @@
+ax-platform
+botorch
+gpytorch
+torch
+pyyaml
+pandas
+openpyxl
+numpy
+scipy
+matplotlib
